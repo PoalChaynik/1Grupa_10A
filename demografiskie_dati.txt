@@ -1,5 +1,5 @@
-Vecuma grupa
-Dzīvesvieta
-Darba vieta, profesija
-Ienākumi, to līmenis
-Intereses,Dzīves veids, stils
+Vecuma grupa - no šī ir atkarīgs kādā vecuma grupā iedalīs un kādus treniņus veiks
+Dzīvesvieta - no šī ir atkarīgs tas, kur notiks treniņi
+Darba vieta, profesija - trenera un tiesneša profesija
+Ienākumi, to līmenis - neviens treneris un tiesnesis bezmaksas savu darbu nedarīs
+Intereses,Dzīves veids, stils - no ši ir atkarīga rutīnas plānošana
