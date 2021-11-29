@@ -6,7 +6,7 @@ Dažādu treniņu procesu plānošana un rezultātu uzskaitīšana
 Iesaistitas personas:
 Brālis (tas, kas gatavojas)
 Treneris (tas, kas varētu palīdzēt treniņu procesu plānošanā)
-Tiesnesis (tas, kurš varētu uzskaitīt rezultātus vieglatlētikas čempionāta laikā)
+Tiesnesis (tas, kurš varētu uzskaitīt rezultātus pēc treniņiem)
 
 
 Jautajumi problemas risinasanai:
